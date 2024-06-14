@@ -252,6 +252,7 @@ public class LoginPage {
             signInBtn.click();
             
 
+
             //Login validation
             Thread.sleep(3000);
             String expectedURL = "https://testbed.devum.com/#/app-studio/landing-page";
