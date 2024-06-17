@@ -250,7 +250,7 @@ public class LoginPage {
             user_nameEdt.sendKeys(USERNAME);
             passwordEdt.sendKeys(PASSWORD);
             signInBtn.click();
-            
+
 
 
             //Login validation
